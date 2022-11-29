@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projest_Remake_2022", "Projest_Remake_2022.csproj", "{58528E11-E494-430F-BED7-C34E5EBDF8A1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funkcje", "..\ProjektPP2022\Funkcje\Funkcje.csproj", "{5AD7852B-8C54-4CAB-B7B5-C4817538E02C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{58528E11-E494-430F-BED7-C34E5EBDF8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58528E11-E494-430F-BED7-C34E5EBDF8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58528E11-E494-430F-BED7-C34E5EBDF8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD7852B-8C54-4CAB-B7B5-C4817538E02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD7852B-8C54-4CAB-B7B5-C4817538E02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD7852B-8C54-4CAB-B7B5-C4817538E02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD7852B-8C54-4CAB-B7B5-C4817538E02C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
